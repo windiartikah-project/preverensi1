@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesExample</string>
+    <string name="save">load</string>
+    <string name="load">load</string>
+    <string name="first_name">first name</string>
+    <string name="textview">TekxtView</string>
+</resources>
